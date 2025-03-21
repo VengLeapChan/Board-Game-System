@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{A67F7118-2126-40CC-AC73-56EB9F00247C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P5/TurretGuard.cs">
+    <Files>
+      <File FileName="P5/iGaurd.cs" Line="13" Column="3" />
+      <File FileName="P5/Guard.cs" Line="110" Column="21" />
+      <File FileName="P5/Turret.cs" Line="18" Column="1" />
+      <File FileName="FighterTest.cs/QuirkyGuardTest.cs" Line="43" Column="20" />
+      <File FileName="P5/Fighter.cs" Line="31" Column="131" />
+      <File FileName="P5/TurretGuard.cs" Line="89" Column="52" />
+      <File FileName="P5/P5.cs" Line="80" Column="35" />
+      <File FileName="P5/FighterGuard.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="P5" expanded="True">
+            <Node name="Fighter" expanded="True">
+              <Node name="TurretGuard.cs" selected="True" />
+            </Node>
+            <Node name="FighterTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="P5" expanded="True">
+            <Node name="FighterTest" expanded="True">
+              <Node name="FighterTest" expanded="True">
+                <Node name="GaurdTest" expanded="True" />
+                <Node name="infantryTest" expanded="True" />
+                <Node name="OneSkipGuardTest" expanded="True" />
+                <Node name="QuirkyGaurdTest" expanded="True" />
+                <Node name="turretTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Fighter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

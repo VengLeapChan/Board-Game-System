@@ -1,0 +1,15 @@
+/Users/leap/Projects/P5/P5/bin/Debug/net7.0/Fighter
+/Users/leap/Projects/P5/P5/bin/Debug/net7.0/Fighter.deps.json
+/Users/leap/Projects/P5/P5/bin/Debug/net7.0/Fighter.runtimeconfig.json
+/Users/leap/Projects/P5/P5/bin/Debug/net7.0/Fighter.dll
+/Users/leap/Projects/P5/P5/bin/Debug/net7.0/Fighter.pdb
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.csproj.AssemblyReference.cache
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.AssemblyInfoInputs.cache
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.AssemblyInfo.cs
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.csproj.CoreCompileInputs.cache
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.dll
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/refint/Fighter.dll
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.pdb
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/Fighter.genruntimeconfig.cache
+/Users/leap/Projects/P5/P5/obj/Debug/net7.0/ref/Fighter.dll

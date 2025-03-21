@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leap/Projects/P5/GuardTest/GuardTest.csproj": {}
+  },
+  "projects": {
+    "/Users/leap/Projects/P5/GuardTest/GuardTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leap/Projects/P5/GuardTest/GuardTest.csproj",
+        "projectName": "GuardTest",
+        "projectPath": "/Users/leap/Projects/P5/GuardTest/GuardTest.csproj",
+        "packagesPath": "/Users/leap/.nuget/packages/",
+        "outputPath": "/Users/leap/Projects/P5/GuardTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/leap/Projects/P5/P5/Fighter.csproj": {
+                "projectPath": "/Users/leap/Projects/P5/P5/Fighter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leap/Projects/P5/P5/Fighter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leap/Projects/P5/P5/Fighter.csproj",
+        "projectName": "Fighter",
+        "projectPath": "/Users/leap/Projects/P5/P5/Fighter.csproj",
+        "packagesPath": "/Users/leap/.nuget/packages/",
+        "outputPath": "/Users/leap/Projects/P5/P5/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
